@@ -6,7 +6,7 @@ My name is Hung Tran. I am a student in Computer Science, specializing in fields
 
 
 
-![Hung's github stats](https://github.com/tqHungdev0605?tab=stars&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tqHungdev0605)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/vietnh1009/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
