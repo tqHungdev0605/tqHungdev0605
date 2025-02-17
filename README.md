@@ -8,9 +8,13 @@ My name is Hung Tran. I am a student in Computer Science, specializing in fields
 
 ![Hung's GitHub stats](https://github-readme-stats.vercel.app/api?username=tqHungdev0605&&hide=prs,issues,contribs&theme=transparent)
 
+<a href="https://github.com/tqHungdev0605/FaceDetectionCNN">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tqHungdev0605&repo=FaceDetectionCNN&theme=gotham" />
+</a>
 <a href="https://github.com/tqHungdev0605/lending_club_loan_analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tqHungdev0605&repo=lending_club_loan_analysis&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tqHungdev0605&repo=lending_club_loan_analysis&theme=monokai" />
 </a>
 <a href="https://github.com/tqHungdev0605/home-credit-risk-prediction">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
