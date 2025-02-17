@@ -22,5 +22,5 @@ My name is Hung Tran. I am a student in Computer Science, specializing in fields
 </a> 
 <a href="https://github.com/tqHungdev0605/Web_Scraping_Python">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tqHungdev0605&repo=Web_Scraping_Python&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tqHungdev0605&repo=Web_Scraping_Python&theme=darcula" />
 </a> 
