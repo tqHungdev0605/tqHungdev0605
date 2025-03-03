@@ -5,12 +5,16 @@ My name is Hung Tran. I am a student in Computer Science, specializing in fields
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hungtran6503/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/tqHungdev0605)
 
 
-
-![Hung's GitHub stats](https://github-readme-stats.vercel.app/api?username=tqHungdev0605&&hide=prs,issues,contribs&theme=transparent)
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tqHungdev0605&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tqHungdev0605&layout=compact&theme=transparent&hide_border=true) |
-
-|---|---|
+<table style="border-collapse: collapse; width: 100%; text-align: center;">
+  <tr>
+    <td style="border: 2px solid #ffffff; border-radius: 50px; padding: 15px; background-color: #1e1e1e;">
+      <img src="https://github-readme-stats.vercel.app/api?username=tqHungdev0605&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" />
+    </td>
+    <td style="border: 2px solid #ffffff; border-radius: 50px; padding: 15px; background-color: #1e1e1e;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tqHungdev0605&layout=compact&theme=transparent&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 
 ## 📑 My Projects:
