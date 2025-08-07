@@ -2,7 +2,7 @@
 My name is Hung Tran. I am a student in Computer Science, specializing in fields related to data science and artificial intelligence. I am interested in the following topics: Data Analysis, Machine Learning, and Deep Learning.<br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hungtran6503/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/tqHungdev0605)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tqhungdev/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/tqHungdev0605)
 
 
 <table style="border-collapse: collapse; width: 100%; text-align: center;">
